@@ -1,0 +1,4 @@
+00001	C++ Primer中文版 第5版	Stanley B. Lippman&Josée Lajoie&Barbara E. Moo	电子工业出版社
+00002	Java编程思想	Bruce Eckel 	机械工业出版社
+00003	Python Cookbook（第3版）中文版	David Beazley&Brian K. Jones	人民邮电出版社
+00004	操作系统 精髓与设计原理 第8版 全球版	William Stallings	人民邮电出版社
